@@ -8,5 +8,4 @@ class Robot {
     this.id = id;
   }
 
-  //methods
 }

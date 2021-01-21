@@ -8,6 +8,5 @@ class Customer {
     this.id = id;
   }
 
-  //methods
 
 }

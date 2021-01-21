@@ -8,6 +8,5 @@ class Chef {
     this.id = id;
   }
 
-  //methods
 
 }
